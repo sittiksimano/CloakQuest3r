@@ -11,11 +11,11 @@ Saves results to optional text file
 
 python cloudflare_subdomain_scanner.py [domain] [options]
 
-Required:
+**Required:**
 
 domain - The target domain to scan for subdomains
 
-Options:
+**Options:**
 
 -h, --help - Show help message and exit
 
