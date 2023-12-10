@@ -1,6 +1,28 @@
 **CloudFlare Subdomain Scanner**
 This tool enumerates subdomains and detects if the target domain is behind CloudFlare.
 
+```
+<h4 align="center"> This tool is a Proof of Concept and is for Educational Purposes Only. </h4> 
+
+---
+
+<h4 align="center">
+  OS compatibility :
+  <br><br>
+  <img src="https://img.shields.io/badge/Windows-05122A?style=for-the-badge&logo=windows">
+  <img src="https://img.shields.io/badge/Linux-05122A?style=for-the-badge&logo=linux">
+  <img src="https://img.shields.io/badge/Android-05122A?style=for-the-badge&logo=android">
+  <img src="https://img.shields.io/badge/macOS-05122A?style=for-the-badge&logo=macos">
+</h4>
+
+<h4 align="center"> 
+Requirements:
+<br><br>
+<img src="https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git">
+</h4>
+
+
 **Features**
 Multithreaded subdomain scanning via wordlist
 Detection if site uses CloudFlare
